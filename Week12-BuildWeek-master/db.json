@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "autore": 0,
+      "title": "test",
+      "body": "lorem ipsum dolor"
+    },
+    {
+      "id": 1,
+      "autore": 2,
+      "title": "poppo",
+      "body": "se of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    },
+    {
+      "id": 2,
+      "autore": 1,
+      "title": "lalllaal",
+      "body": "se of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+    },
+    {
+      "autore": 8,
+      "title": "aaaaaaaa",
+      "body": "aaaaaaaaaaaaaaa",
+      "id": 3
+    },
+    {
+      "autore": 3,
+      "title": "asaad",
+      "body": "vfvvtbtb",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "idPost": 0,
+      "idUser": 0,
+      "body": "lorem ipsum dolor"
+    },
+    {
+      "idPost": 5,
+      "idUser": 3,
+      "body": "cristo",
+      "id": 1
+    },
+    {
+      "idPost": 5,
+      "idUser": 3,
+      "body": "wewe",
+      "id": 2
+    },
+    {
+      "idPost": 5,
+      "idUser": 3,
+      "body": "sssss",
+      "id": 3
+    },
+    {
+      "idPost": 0,
+      "idUser": 3,
+      "body": "aaaaa",
+      "id": 4
+    },
+    {
+      "idPost": 0,
+      "idUser": 3,
+      "body": "aaaaa",
+      "id": 5
+    },
+    {
+      "idPost": 0,
+      "idUser": 3,
+      "body": "cazzo",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "username": "test",
+      "email": "test@test.test",
+      "password": "???",
+      "name": "Test test",
+      "age": 20
+    },
+    {
+      "id": 1,
+      "username": "gioacchino69",
+      "email": "gio@chino.nochio",
+      "password": "csadsadsadsad",
+      "name": "gioacchino69 mariottide",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "username": "sara88",
+      "email": "sa@ra.futuro",
+      "password": "csadsadsadsad",
+      "name": "sara banda",
+      "age": 20
+    },
+    {
+      "email": "123@123.123",
+      "password": "$2a$10$6ngnw6dhpe2bW6jNc34GEuZpTrKDcAANfM8Y3k7cfmWsy/.CAMZG.",
+      "username": "asasasas",
+      "name": "asasas",
+      "age": 55,
+      "id": 3
+    },
+    {
+      "email": "giac@giac.giac",
+      "password": "$2a$10$t5it8oR0pgTqGanyYHIhU.A2oW/mRX770Bnkb2EL4SOII4FWbRFpy",
+      "username": "asdasdsa",
+      "name": "dasdas",
+      "age": 45,
+      "id": 4
+    },
+    {
+      "email": "aaa@aaa.com",
+      "password": "$2a$10$FBtVlI6ff8qLaZTMuyK5qOOc2zL7h7iY.vofytlcZU6DeYwbNTJF2",
+      "username": "fratm",
+      "name": "ggggg",
+      "age": 45,
+      "id": 5
+    },
+    {
+      "email": "abc@abc.abc",
+      "password": "$2a$10$2a1BzFHfWcP2vrD90TC2KeT1T5ExCT/uxFj8Uk3rJQaUGKqLO01gu",
+      "username": "flavio",
+      "name": "aaaa",
+      "age": 30,
+      "id": 6
+    },
+    {
+      "email": "sss@sss.sss",
+      "password": "$2a$10$95xWTPwcMNhNMyadDN4gUerYPAiC4j7U81NH1wBP4jrrSgMdBDmaq",
+      "username": "ssssss",
+      "name": "ssss",
+      "age": 2,
+      "id": 7
+    },
+    {
+      "email": "tommy@tommy.t",
+      "password": "$2a$10$yWo4kKDP12xRYAjy4sp2Xe5av9k8wigxVpEVcsax7bYfGK53v/hkW",
+      "username": "frog",
+      "name": "tommaso",
+      "age": 25,
+      "id": 8
+    }
+  ]
+}

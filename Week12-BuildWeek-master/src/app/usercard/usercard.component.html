@@ -1,0 +1,9 @@
+<div class="post">
+  <h3>{{post.title}}</h3>
+  <p>{{post.body}}</p>
+  <div class="bottoni">
+  <button (click)="deletePost()" class="elimina">Elimina</button>
+  <button class="modifica">Modifica</button>
+  <button (click)="dammiId()" routerLink="/commenti">Commenti</button>
+  </div>
+</div>
